@@ -5,3 +5,4 @@ transformers
 uvicorn
 fastapi
 httpx
+click==8.0.4
