@@ -1,0 +1,7 @@
+python-multipart
+streamlit
+tensorflow-cpu
+transformers
+uvicorn
+fastapi
+httpx
